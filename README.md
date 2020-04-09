@@ -18,20 +18,23 @@ All the modders that used their time and considerable skills to develop the mode
 * Module Manager
 * **[ROLibrary][link:ROLib]**
 
-## Model Sources Included:
-* Tantares
+## Model Sources Included (Corrected):
 * Bluedog Design by CobaltWolf
+* Restock
+	* LargeStaticPanel
+	* SmallStaticPanel
+* SXT
+* Ven's
+
+
+## Planned Configs/Integration:
 * Near Future - Models are ARR
+* Tantares
 * RLA Reborn
 * RN Solar Panels by RaiderNick
 * RN Skylab by RaiderNick
 * RN Salyut Stations by RaiderNick
 * RN US Probes by RaiderNick
 * Probes Plus
-* SXT
-* Ven's
-* Restock
-	* LargeStaticPanel
-	* SmallStaticPanel
 * Contares
 * Lionhead Aerospace
