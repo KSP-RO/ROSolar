@@ -1,0 +1,19 @@
+STATIC
+* Rectangle
+* Hexagon
+
+HINGED
+* Rectangle
+* Other
+
+EXTENDABLE
+* Folding
+* Shielded
+* Accordion
+* Circular
+
+TRACKING
+* Folding
+* Shielded
+* Accordion
+* Circular
