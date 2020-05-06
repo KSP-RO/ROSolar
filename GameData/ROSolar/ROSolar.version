@@ -1,7 +1,7 @@
 {
     "NAME":"ROSolar",
     "URL":"https://github.com/KSP-RO/ROSolar/tree/master/GameData/ROSolar/ROSolar.version",
-    "DOWNLOAD":"https://github.com/KSP-RO/ROSolar/releases/tag/v1.0",
+    "DOWNLOAD":"https://github.com/KSP-RO/ROSolar/releases/tag/v1.1",
     "GITHUB":
     {
         "USERNAME":"KSP-RO",
@@ -11,7 +11,7 @@
     "VERSION":
     {
         "MAJOR":1,
-        "MINOR":0,
+        "MINOR":1,
         "PATCH":0,
         "BUILD":0
     },
