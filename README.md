@@ -18,23 +18,22 @@ All the modders that used their time and considerable skills to develop the mode
 * Module Manager
 * **[ROLibrary][link:ROLib]**
 
-## Model Sources Included (Corrected):
+## Model Sources Included:
 * Bluedog Design by CobaltWolf
 * Restock
 	* LargeStaticPanel
 	* SmallStaticPanel
 * SXT
 * Ven's
+* RN Solar Panels by RaiderNick
+	* EOS-AA, EOS-TDRS, EOS-TERRA, NEO-DS, NEAR, Magellan, Dawn, Molniya
 
+## Model Sources (External -- ROSolar will configure parts only if the source mod is installed):
+* Near Future Solar
 
 ## Planned Configs/Integration:
-* Near Future - Models are ARR
 * Tantares
 * RLA Reborn
-* RN Solar Panels by RaiderNick
-* RN Skylab by RaiderNick
-* RN Salyut Stations by RaiderNick
-* RN US Probes by RaiderNick
 * Probes Plus
 * Contares
 * Lionhead Aerospace
