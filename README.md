@@ -16,7 +16,7 @@ All the modders that used their time and considerable skills to develop the mode
 
 ## Dependencies
 * Module Manager
-* **[ROLibrary][link:ROLib]**
+* **[ROLibrary](https://github.com/KSP-RO/ROLibrary)**
 
 ## Model Sources Included:
 * Bluedog Design by CobaltWolf
